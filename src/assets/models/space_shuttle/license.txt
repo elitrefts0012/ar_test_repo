@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Shuttle
+* source:	https://sketchfab.com/3d-models/space-shuttle-d6c588b68a5c4989a52182e368e044a7
+* author:	Fireonit (https://sketchfab.com/Fire2497)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Shuttle" (https://sketchfab.com/3d-models/space-shuttle-d6c588b68a5c4989a52182e368e044a7) by Fireonit (https://sketchfab.com/Fire2497) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
